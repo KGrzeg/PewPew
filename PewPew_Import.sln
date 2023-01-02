@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PewPew_Import", "PewPew_Import\PewPew_Import.csproj", "{69351344-54EA-4E8D-90C6-75875F4406EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69351344-54EA-4E8D-90C6-75875F4406EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69351344-54EA-4E8D-90C6-75875F4406EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69351344-54EA-4E8D-90C6-75875F4406EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69351344-54EA-4E8D-90C6-75875F4406EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E483EFAF-1778-47B3-A621-BE302FFF2D79}
+	EndGlobalSection
+EndGlobal
